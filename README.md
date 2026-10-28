@@ -73,3 +73,7 @@ Sales_Analysis_Dashboard.pbix – Power BI dashboard file.
 Learning Outcomes
 
 This project helped me improve my skills in data cleaning, data analysis, KPI tracking, and dashboard development.
+## Dashboard Preview
+
+![Sales Data Analysis Dashboard](sales_dashboard.png)
+
